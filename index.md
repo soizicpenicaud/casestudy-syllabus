@@ -23,8 +23,6 @@ society campaigns, political speeches.
 
 _Nota: this class was designed for a case study format, with many interactive exercises and group assignments (course objective #3). The assignments were not included on this webpage._ 
 
-:::
-
 ## Course structure
 
 |----|----|
