@@ -33,7 +33,7 @@ _Nota: this class was designed for a case study format, with many interactive ex
 |3.Ensuring the technical efficacy of an automated decision-making system|Delving into the technical aspects of AMDS <br> Understanding why the technical is still political|
 |4.Setting up feedback loops: transparency, appeals processes|Focusing more particularly on appeals & transparency after the ADMS is implemented|
 |5.“Fck the algorithm”: backlash against ADMS|Fighting against public sector algorithms (from outside government)|
-|Managing the aftermath of an “algorithmic” scandal|How governments can deal with the aftermath: do's and dont's|
+|6.Managing the aftermath of an “algorithmic” scandal|How governments can deal with the aftermath: do's and dont's|
 
 ## Case study (PDF)
 
