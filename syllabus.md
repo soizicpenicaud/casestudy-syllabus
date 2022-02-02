@@ -30,10 +30,10 @@ syllabus.md
  
 ## Session 3: Ensuring the technical efficacy of an automated decision-making system
 
-Guest speaker: Dr. Nicolas Berkouk, EPFL
+Guest speaker: Dr. Nicolas Berkouk, EPFL.
 
 ### Mandatory readings
-* Section II of the case study: “‘Black boxed politics’”: the choices behind the tech tools”
+* Section II of the case study: “‘Black boxed politics’”: the choices behind the tech tools”.
 
 * Angwin, J ; Larson, J ; Mattu, S. ; Kirchner, L. (2016, 23 May). ["Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks."](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) Propublica. 
 * Dressel, Julia & Farid, Hany. (2018). The accuracy, fairness, and limits of predicting recidivism. Science Advances. 
@@ -60,7 +60,7 @@ Guest speaker: Dr. Nicolas Berkouk, EPFL
 Guest speaker: [Vidushi Marda](https://vidushimarda.com/).
 
 ### Mandatory readings
-* Section III of the case study: The aftermath: ADM systems as objects of political discontent
+* Section III of the case study: The aftermath: ADM systems as objects of political discontent.
 * Foxglove. (2020, 12 August). [_Press release: UK: Legal action threatened over algorithm used to grade teenagers' exams_](https://www.statewatch.org/news/2020/august/uk-legal-action-threatened-over-algorithm-used-to-grade-teenagers-exams/). Statewatch.org.
 * Haskins, C. (2020, 21 April). [_The Los Angeles Police Department Says It Is Dumping A Controversial Predictive Policing Tool_](https://www.buzzfeednews.com/article/carolinehaskins1/los-angeles-police-department-dumping-predpol-predictive). Buzzfeed News.
 * Vervloesem, K. (2020, 6 April). [_How Dutch activists got an invasive fraud detection algorithm banned_](https://algorithmwatch.org/en/syri-netherlands-algorithm/). AlgorithmWatch blog. 
