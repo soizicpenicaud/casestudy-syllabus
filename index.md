@@ -1,3 +1,6 @@
+<meta property="og:image" content="/imagepreview.png" />
+<meta property="twitter:image" content="imagepreview.png" />
+
 ## Responsible Use of Algorithms in the Public Sector: Case Study of England's 2020 A-level exam result algorithm
 
 Course designed and taught by [Soizic Pénicaud](https://twitter.com/soizicpenicaud) at [Sciences Po Paris' School of Public Affairs](https://www.sciencespo.fr/public/en.html) in September-December 2021.
