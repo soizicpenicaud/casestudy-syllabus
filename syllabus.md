@@ -11,8 +11,8 @@ syllabus.md
 
 ### Optional readings
 * Leufer, D. (2020). [Myth: the term AI has a clear meaning](https://www.aimyths.org/the-term-ai-has-a-clear-meaning). AI Myths. 
-* Stoyanovich, J. and Arif Khan, F. Julia Stoyanovich and Falaah Arif Khan (2021). [“What is AI?”](https://dataresponsibly.github.io/we-areai/comics/vol1_en.pdf). _We are AI Comics_, Vol 1 (2021). 
-* Stoyanovich, J. and Arif Khan, F. Julia Stoyanovich and Falaah Arif Khan (2021). [“Learning from Data”](https://dataresponsibly.github.io/we-are-ai/comics/vol2_en.pdf). _We are AI Comics_, Vol 2 (2021).  
+* Stoyanovich, J. and Arif Khan, F. (2021). [“What is AI?”](https://dataresponsibly.github.io/we-areai/comics/vol1_en.pdf). _We are AI Comics_, Vol 1 (2021). 
+* Stoyanovich, J. and Arif Khan, F. (2021). [“Learning from Data”](https://dataresponsibly.github.io/we-are-ai/comics/vol2_en.pdf). _We are AI Comics_, Vol 2 (2021).  
 
 ## Session 2: Assessing the risks and impacts of an automated decision-making system
 
@@ -35,8 +35,8 @@ Guest speaker: Dr. Nicolas Berkouk, EPFL.
 ### Mandatory readings
 * Section II of the case study: “‘Black boxed politics’”: the choices behind the tech tools”.
 
-* Angwin, J ; Larson, J ; Mattu, S. ; Kirchner, L. (2016, 23 May). ["Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks."](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) Propublica. 
-* Dressel, Julia & Farid, Hany. (2018). The accuracy, fairness, and limits of predicting recidivism. Science Advances. 
+* Angwin, J; Larson, J; Mattu, S.; Kirchner, L. (2016, 23 May). ["Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks."](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) Propublica. 
+* Dressel, Julia and Farid, Hany. (2018). The accuracy, fairness, and limits of predicting recidivism. Science Advances. 
 * Leufer, D. (2020). [Myth: AI can be objective or unbiased](https://www.aimyths.org/ai-can-be-objective-or-unbiased#bias-in-machine-learning). AI Myths. 
 * Stoyanovich, J. and Arif Khan, F. (2021). [“All about that Bias”](https://dataresponsibly.github.io/we-are-ai/comics/vol4_en.pdf). _We are AI Comics, Vol 4_.  
 
@@ -47,7 +47,7 @@ Guest speaker: Dr. Nicolas Berkouk, EPFL.
 ## Session 4: Setting up feedback loops: transparency, appeals processes
 
 ### Mandatory readings
-* Ananny M, Crawford K. Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability. _New Media & Society_. 2018;20(3):973-989. doi:10.1177/146144481667664
+* Ananny, M. and Crawford, K. Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability. _New Media & Society_. 2018;20(3):973-989. doi:10.1177/146144481667664
 * Jones, E. and Safak, C. (2020, 18 August). [_Can algorithms ever make the grade?_](https://www.adalovelaceinstitute.org/blog/can-algorithms-ever-make-the-grade/). Ada Lovelace Institute’s blog. 
 * Szymielewicz, K.; Foryciarz A.; Leufer, D. (2020 January 17). [_Black-Boxed Politics: Opacity is a Choice in AI Systems_](https://medium.com/@szymielewicz/black-boxed-politics-cebc0d5a54ad). Medium [Blog]. 
 
