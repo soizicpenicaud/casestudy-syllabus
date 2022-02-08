@@ -1,5 +1,5 @@
 <meta property="og:image" content="/imagepreview.png" />
-<meta property="twitter:image" content="imagepreview.png" />
+<meta property="twitter:image" content="/imagepreview.png" />
 
 ## Responsible Use of Algorithms in the Public Sector: Case Study of England's 2020 A-level exam result algorithm
 
