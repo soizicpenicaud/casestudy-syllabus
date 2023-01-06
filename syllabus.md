@@ -102,7 +102,7 @@ Guest speakers:
 * Green, B. Z. (2019). [Chapter 2: The Livable City: The Limits and Dangers of New Technology](https://doi.org/10.7551/mitpress/11555.003.0004). In _The Smart Enough City: Putting Technology in Its Place to Reclaim Our Urban Future_. MIT Press. 
 * Vervloesem, K. (2020, 6 April). [How Dutch activists got an invasive fraud detection algorithm banned](https://algorithmwatch.org/en/syri-netherlands-algorithm/). AlgorithmWatch blog.  
  
-### Readings about the technical side of algorithms/AI
+## Readings about the technical side of algorithms/AI
 
 Introductory resources
 * Jist Studios, BBC Ideas. (2019, 19 September). “What exactly is an algorithm?” [[Video](https://www.bbc.co.uk/ideas/videos/what-exactly-is-an-algorithm/p07nw8ny)].  
