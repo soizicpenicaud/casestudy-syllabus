@@ -9,8 +9,7 @@ The content of this course and the case study are available under the Creative C
 
 ## Course description
 
-“Artificial intelligence” is a buzzword in the public sector, and agencies increasingly use algorithms and data-driven systems to aid or make decisions. This course is suited for students who want to understand the issue and apply
-their takeaways to policy, advocacy, research or product management work.
+“Artificial intelligence” is a buzzword in the public sector, and agencies increasingly use algorithms and data-driven systems to aid or make decisions. This course is suited for students who want to understand the issue and apply their takeaways to policy, advocacy, research or product management work.
 
 The main questions addressed are: when (not) to build algorithms? For and with whom? How to
 ensure their efficacy and monitor their actual impact, especially with regards to inequalities? How to ensure government remains accountable? What role does civil society play, and how can it push back against abuses? 
@@ -23,16 +22,16 @@ studied to go deeper into specific aspects of designing and implementing algorit
 
 |----|----|
 |**Session**|**Objective in a nutshell**|
-|What went wrong in this case?|Understand the details of the case <br> Replace algorithms in their public policy, political contexts <br> Understand what went wrong politically with the A-Level case <br>|
-|Ensuring the technical accuracy of an algorithmic system|Delve into the technical aspects of algorithms and the choices they entail <br> Understand what went wrong technically with the A-Level <br> Understand the concept of fairness and its limitations <br>|  
-|Assessing the impacts of an algorithmic system|Learn about and critique existing policy instruments and tools to assess the impacts of algorithmic systems <br> Learn about different methods to investigate and audit algorithmic systems <br> Reflect on how these concepts apply to the A-Level case <br>|
-|Building accountability: transparency, explainability, appeal processes|Understand what accountability means and how it compares to transparency, fairness or explainability <br> Explore different ways to ensure government remains accountable, and understand their limitations and ambiguities <br>|
-|Working with different actors: citizen participation and public procurement|Understand the breadth and types of actors involved in designing, building and using algorithmic systems <br>Explore citizen participation in the context of data-driven systems and be aware of the pitfalls of "participation washing" <br>|
-|Taking down a problematic algorithm and managing the aftermath|Reflect on Boris Johnson's communication around the A-Level scandal <br> Understand the longer-lasting consequences of algorithmic systems, even when cancelled <br> Hear from guest speakers about their experience researching, litigating and fighting back against algorithmic systems <br>|
+|**What went wrong in this case?**|Understand the details of the case <br> Replace algorithms in their public policy, political contexts <br> Understand what went wrong politically with the A-Level case <br>|
+|**Ensuring the technical accuracy of an algorithmic system**|Delve into the technical aspects of algorithms and the choices they entail <br> Understand what went wrong technically with the A-Level algorithm<br> Understand the concept of fairness and its limitations <br>|  
+|**Assessing the impacts of an algorithmic system**|Learn about and critique existing policy instruments and tools to assess the impacts of algorithmic systems <br> Learn about different methods to investigate and audit algorithmic systems <br> Reflect on how these concepts apply to the A-Level case <br>|
+|**Building accountability: transparency, explainability, appeal processes**|Understand what accountability means and how it compares to transparency, fairness or explainability <br> Explore different ways to ensure government remains accountable, and understand their limitations and ambiguities <br>|
+|**Working with different actors: citizen participation and public procurement**|Understand the breadth and types of actors involved in designing, building and using algorithmic systems <br>Explore citizen participation in the context of data-driven systems and be aware of the pitfalls of "participation washing" <br>|
+|**Taking down a problematic algorithm and managing the aftermath**|Reflect on Boris Johnson's communication around the A-Level scandal <br> Understand the longer-lasting consequences of algorithmic systems, even when cancelled <br> Hear from guest speakers about their experience researching, litigating and fighting back against algorithmic systems <br>|
 
 ## Case study (PDF)
 
-The case study is available on [this webpage](/2021-casestudy-algo.md).
+[Read the case study](/2022-casestudy-algo.md).
 
 ## Syllabus
 
