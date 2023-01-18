@@ -31,7 +31,7 @@ studied to go deeper into specific aspects of designing and implementing algorit
 
 ## Case study (PDF)
 
-[Read the case study](/2022-casestudy-algo.md).
+[Read the case study](/2022-casestudy-algo.pdf).
 
 ## Syllabus
 
