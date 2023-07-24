@@ -22,12 +22,12 @@ studied to go deeper into specific aspects of designing and implementing algorit
 
 |----|----|
 |**Session**|**Objective in a nutshell**|
-|**What went wrong in this case?**|Understand the details of the case <br> Replace algorithms in their public policy, political contexts <br> Understand what went wrong politically with the A-Level case <br>|
-|**Ensuring the technical accuracy of an algorithmic system**|Delve into the technical aspects of algorithms and the choices they entail <br> Understand what went wrong technically with the A-Level algorithm<br> Understand the concept of fairness and its limitations <br>|  
-|**Assessing the impacts of an algorithmic system**|Learn about and critique existing policy instruments and tools to assess the impacts of algorithmic systems <br> Learn about different methods to investigate and audit algorithmic systems <br> Reflect on how these concepts apply to the A-Level case <br>|
-|**Building accountability: transparency, explainability, appeal processes**|Understand what accountability means and how it compares to transparency, fairness or explainability <br> Explore different ways to ensure government remains accountable, and understand their limitations and ambiguities <br>|
+|**What went wrong with this case?**|Understand the details of the case <br> Replace algorithms in their public policy, political contexts <br> Understand what went wrong politically with the A-Levels case <br>|
+|**Avoiding technical pitfalls in algorithmic systems**|Delve into the technical aspects of algorithms and the choices they entail <br>  Understand the concept of fairness and its limitations <br> Understand what went wrong technically with the A-Levels algorithm<br>|  
+|**Assessing the impacts of an algorithmic system**|Learn about and critique existing policy instruments and tools to assess the impacts of algorithmic systems <br> Learn about different methods to investigate and audit algorithmic systems <br> Reflect on how these concepts apply to the A-Levels case <br>|
 |**Working with different actors: citizen participation and public procurement**|Understand the breadth and types of actors involved in designing, building and using algorithmic systems <br>Explore citizen participation in the context of data-driven systems and be aware of the pitfalls of "participation washing" <br>|
-|**Taking down a problematic algorithm and managing the aftermath**|Reflect on Boris Johnson's communication around the A-Level scandal <br> Understand the longer-lasting consequences of algorithmic systems, even when cancelled <br> Hear from guest speakers about their experience researching, litigating and fighting back against algorithmic systems <br>|
+|**Building accountability: transparency, explainability, appeal processes**|Understand what accountability means and how it compares to transparency, fairness or explainability <br> Explore different ways to ensure government remains accountable, and understand their limitations and ambiguities <br>|
+|**Taking down a problematic algorithm and managing the aftermath**|Understand the longer-lasting consequences of algorithmic systems, even when cancelled <br>Reflect on Boris Johnson's communication around the A-Level scandal <br> Hear from guest speakers about their experience researching, litigating and fighting back against algorithmic systems <br>|
 
 ## Case study (PDF)
 
