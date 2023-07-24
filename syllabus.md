@@ -10,7 +10,7 @@ syllabus.md
 * Hao, K. (2020, 20 August). [The UK exam debacle reminds us that algorithms can’t fix broken systems](https://www.technologyreview.com/2020/08/20/1007502/uk-exam-algorithm-cant-fix-broken-system). _MIT Technology Review_. 
 
 
-## Session 2: Avoid technical pitfalls in algorithmic systems
+## Session 2: Avoiding technical pitfalls in algorithmic systems
 
 ### Tools 
 * [Hugging Face's work on Model Cards](https://huggingface.co/blog/model-cards)
