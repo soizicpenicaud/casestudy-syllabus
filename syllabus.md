@@ -5,7 +5,7 @@ syllabus.md
 ## Session 1: What went wrong with this case? 
 
 ### Mandatory readings 
-* [The case study](/2022-casestudy-algo.md)
+* [The case study](/2022-casestudy-algo.pdf)
 * Green, B. Z. (2019). [Chapter 6: The Innovative City: The Relationship between Technical and Nontechnical Change in City Government](https://doi.org/10.7551/mitpress/11555.003.0008). In _The Smart Enough City: Putting Technology in Its Place to Reclaim Our Urban Future_. MIT Press. 
 * Hao, K. (2020, 20 August). [The UK exam debacle reminds us that algorithms can’t fix broken systems](https://www.technologyreview.com/2020/08/20/1007502/uk-exam-algorithm-cant-fix-broken-system). _MIT Technology Review_. 
 
