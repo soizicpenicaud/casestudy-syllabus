@@ -9,6 +9,8 @@ syllabus.md
 * Green, B. Z. (2019). [Chapter 6: The Innovative City: The Relationship between Technical and Nontechnical Change in City Government](https://doi.org/10.7551/mitpress/11555.003.0008). In _The Smart Enough City: Putting Technology in Its Place to Reclaim Our Urban Future_. MIT Press. 
 * Hao, K. (2020, 20 August). [The UK exam debacle reminds us that algorithms can’t fix broken systems](https://www.technologyreview.com/2020/08/20/1007502/uk-exam-algorithm-cant-fix-broken-system). _MIT Technology Review_. 
 
+### Optional watch 
+* Benjamin, R. (2023). [Race to the future?](https://video.publicspaces.net/w/48f7ffdc-73c9-435f-9987-d7142bac3efc). Video. Opening keynote at the Public Spaces Conference in Amsterdam.
 
 ## Session 2: Avoiding technical pitfalls in algorithmic systems
 
@@ -25,7 +27,7 @@ syllabus.md
 
 ### Optional readings
 * Angwin, J., Larson, J., Mattu, S., Kirchner, L. (2016, 23 May). [Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). _ProPublica_. 
-* Bennett, S. H. (2020, 20 August). [On A-Levels, Ofqual and Algorithms](https://www.sophieheloisebennett.com/posts/a-levels-2020/). _Sophie Bennett’s blog_.   
+* Bennett, S. H. (2020, 20 August). [On A-Levels, Ofqual and Algorithms](https://www.sophieheloisebennett.com/posts/a-levels-2020/). _Sophie Bennett’s blog_. 
 * Narayan, A. (2018). [Tutorial: 21 Definitions of Fairness and their politics](https://www.youtube.com/watch?v=wqamrPkF5kk). Video from the 2018 conference on Fairness, Accountability and Transparency of Machine Learning. 
 * Ofqual. (2020, 15 April). [_Equality Impact Assessment_](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/879605/Equality_impact_assessment_literature_review_15_April_2020.pdf).
 * Selbst, A., boyd, d., Friedler, S., Venkatasubramanian, S., Vertesi, J. (2019). [Fairness and Abstraction in Sociotechnical Systems](https://dl.acm.org/doi/pdf/10.1145/3287560.3287598). Proceedings from the 2019 conference on Fairness, Accountability and Transparency of Machine Learning, Atlanta.  
@@ -53,7 +55,8 @@ syllabus.md
 * Access Now. (October 2022). [Human rights impact assessments for AI: analysis and recommendations](https://www.accessnow.org/wp-content/uploads/2022/11/Access-Now-Version-Human-Rights-Implications-of-Algorithmic-Impact-Assessments_-Priority-Recommendations-to-Guide-Effective-Development-and-Use.pdf). 
 * Braun, J.-C., Constataras, E., Haung, H., Geiger, G., Mehrotra, D., Howden, D. (2023). [Suspicion Machines Methodology: A detailed explainer on what we did and how we did it](https://www.lighthousereports.com/suspicion-machines-methodology/). _LightHouse Reports_. 
 * Chowdhury, R., and Williams, J. (2021, July 30). [Introducing Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge). 
-* Eticas. (2022). [_The External Audit of the VioGén System_](https://eticasfoundation.org/wp-content/uploads/2022/03/ETICAS-FND-The-External-Audit-of-the-VioGen-System.pdf). 
+* Eticas. (2022). [_The External Audit of the VioGén System_](https://eticasfoundation.org/wp-content/uploads/2022/03/ETICAS-FND-The-External-Audit-of-the-VioGen-System.pdf).
+* Eubanks, V. (2018). _Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor_. St Martin's Press.
 * Gender Shades. [_How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?_](http://gendershades.org/overview.html). 
 * Metcalf, J., Moss, E., Watkins, E. A., Singh, R., Elish, M. C. (2021). [Algorithmic Impact Assessments and Accountability: The Co-construction of Impacts](https://dl.acm.org/doi/abs/10.1145/3442188.3445935). Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency.  
 
@@ -78,12 +81,14 @@ syllabus.md
 ## Session 5: Building Accountabiilty: transparency, explainability, appeals processes
 
 ### Mandatory readings (policy instruments) 
+* [AlgorithmTips.org](http://algorithmtips.org/about/) by the Computational Journalism Lab at Northwestern University (USA)
+* AlgorithmWatch Switzerland's [Atlas of Automation](https://algorithmwatch.ch/en/atlas/)
 * Amsterdam’s [register](https://algoritmeregister.amsterdam.nl/en/ai-register/) 
 * Chile’s [register](https://www.algoritmospublicos.cl/)
-* The Netherland's [algorithm register](https://algoritmes.overheid.nl/nl/algoritme)
-* France's [proposed framework for registers](https://guides.etalab.gouv.fr/algorithmes/inventaire/)    
+* France's [proposed framework for registers](https://guides.etalab.gouv.fr/algorithmes/inventaire/)
+* Joshi, D.'s [AI Observatory](https://ai-observatory.in/)
+* The Netherland's [algorithm register](https://algoritmes.overheid.nl/nl/algoritme)   
 * Ontario’s [register](https://data.ontario.ca/group/artificial-intelligence-andalgorithms) 
-* Joshi, D.'s [AI Observatory](https://ai-observatory.in/). 
 
 ### Mandatory readings
 * Ananny M, Crawford K. Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability. _New Media & Society_. 2018;20(3):973-989. doi:10.1177/146144481667664
@@ -93,6 +98,7 @@ syllabus.md
 
 ### Optional readings
 * Feathers, T. (2023, 1 April). [It takes a small miracle to learn basic facts about government algorithms](https://themarkup.org/hello-world/2023/04/01/it-takes-a-small-miracle-to-learn-basic-facts-about-government-algorithms). _The Markup_.
+* Wieringa, M. (2023). [“Hey SyRI, tell me about algorithmic accountability”: Lessons from a landmark case](https://www.cambridge.org/core/journals/data-and-policy/article/hey-syri-tell-me-about-algorithmic-accountability-lessons-from-a-landmark-case/22A3086554B0486BB4BBAF2D5A33A3D0). Data & Policy, 5, E2. doi:10.1017/dap.2022.39
 
 
 ## Session 6 : taking down a problematic algorithm and managing the aftermath - Conclusion of the class
