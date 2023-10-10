@@ -64,21 +64,26 @@ syllabus.md
 * Metcalf, J., Moss, E., Watkins, E. A., Singh, R., Elish, M. C. (2021). [Algorithmic Impact Assessments and Accountability: The Co-construction of Impacts](https://dl.acm.org/doi/abs/10.1145/3442188.3445935). Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency.  
 
 
-## Session 4: Working with different actors: citizen participation and public procurement
-
 ### Policy instruments
 * ECNL's [Framework for Meaningful Engagement: Human Rights Impact Assessments of AI](https://ecnl.org/publications/framework-meaningful-engagement-human-rights-impact-assessments-ai)
 * UK’s [Guidelines for AI Procurement](https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement) (2021) 
+* Gilman, M. (2023). [Democratizing AI: Principles for Meaningful Public Participation](https://datasociety.net/wp-content/uploads/2023/09/DS_Democratizing-AI-Public-Participation-Brief_9.2023.pdf). Data & Society. 
 
 ### Mandatory readings
 * Costanza-Chock, S. (2020). [Design Practices: “Nothing about Us without Us.”](https://design-justice.pubpub.org/pub/cfohnud7). In _Design Justice_ (1st ed.).   
 * Data Justice Lab. (2021). [_Advancing civic participation in algorithmic decision-making: A guidebook for the public sector_](https://datajusticelab.org/wp-content/uploads/2021/06/PublicSectorToolkit_english.pdf).  
-* Elish, M. C. (2020, August 7). [Sepsis Watch in Practice: The labor of disruption and repair in healthcare](https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe ). _Data & Society: Points_. 
+* Elish, M. C. (2020, August 7). [Sepsis Watch in Practice: The labor of disruption and repair in healthcare](https://web.archive.org/web/20210316044439/https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe?gi=9e0f4a4c87e9). _Data & Society: Points_. 
+* Robinson, D. G. (2022). "Chapter 2: Democracy on the Drawing Board". _Voices in the Code_. Russell Sage Foundation. 
+* Sloane, M., Moss, E., Awomolo, O., Forlano, L. (2020). [Participation is not a Design Fix for Machine Learning](https://arxiv.org/abs/2007.02423).
+
 
 ### Optional readings
+* Carollo, M., Tanen, B. (2023, 21 March). [How a Group of Health Executives Transformed the Liver Transplant System](https://themarkup.org/organ-failure/2023/03/21/how-a-group-of-health-executives-transformed-the-liver-transplant-system). The Markup. 
 * Cardullo, P., Kitchin, Rob. (2019). [Being a 'citizen' in the smart city: up and down the scaffold of smart citizen participation in Dublin, Ireland](https://link.springer.com/article/10.1007/s10708-018-9845-8). _GeoJournal_. 
 * Office for Statistics Regulation Authority. (2021, 2 March). [_Ensuring statistical models command public confidence: Learning lessons from the approach to developing models for awarding grades in the UK in 2020, Executive summary_](https://osr.statisticsauthority.gov.uk/publication/ensuring-statistical-models-command-public-confidence/). 
-* Wylie, B. (2018, 13 August). [Searching for the Smart City's Democratic Future](https://www.cigionline.org/articles/searching-smart-citys-democratic-future/). Centre for International Governance Innovation.  
+* Singh, R. (2023, 18 August). [Can We Red Team Our Way to AI Accountability?](https://techpolicy.press/can-we-red-team-our-way-to-ai-accountability/). Tech Policy Press. 
+* Wylie, B. (2018, 13 August). [Searching for the Smart City's Democratic Future](https://www.cigionline.org/articles/searching-smart-citys-democratic-future/). Centre for International Governance Innovation.
+  
 
 
 ## Session 5: Building Accountabiilty: transparency, explainability, appeals processes
