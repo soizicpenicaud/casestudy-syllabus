@@ -42,7 +42,9 @@ syllabus.md
 * Canada's [Algorithmic Impact Assessment](https://open.canada.ca/aia-eia-js/?lang=en) 
 * [Human Rights, Democracy, and the Rule of Law Assurance Framework for AI Systems: A proposal prepared for the Council of Europe's Ad hoc Committee on Artificial Intelligence](https://rm.coe.int/huderaf-coe-final-1-2752-6741-5300-v-1/1680a3f688)
 * The Netherlands’ Court of Audit report [_Understanding Algorithms_](https://english.rekenkamer.nl/publications/reports/2021/01/26/understanding-algorithms)
-* New Zealand’s [Algorithmic Charter](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf) (for context, see [this presentation page](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/#algorithmCharter))  
+* Supreme Audit Institutions of Finland, Germany, the Netherlands, Norway and the UK, [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/) (2023)
+* New Zealand’s [Algorithmic Charter](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf) (for context, see [this presentation page](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/#algorithmCharter)) 
+* Mantelero, A., Esposito, M. S. ( July 2021). [An evidence-based methodology for human rights impact assessment (HRIA) in the development of AI data-intensive systems](https://www.sciencedirect.com/science/article/pii/S0267364921000340). Computer Law & Security Review.   
 
 ### Mandatory readings
 * Ada Lovelace Institute. (2020, 29 April). [_Examining the Black Box: Tools for assessing algorithmic systems_](https://www.adalovelaceinstitute.org/report/examining-the-black-box-tools-for-assessing-algorithmic-systems/), April 29, 2020. 
@@ -53,11 +55,12 @@ syllabus.md
 
 ### Optional readings
 * Access Now. (October 2022). [Human rights impact assessments for AI: analysis and recommendations](https://www.accessnow.org/wp-content/uploads/2022/11/Access-Now-Version-Human-Rights-Implications-of-Algorithmic-Impact-Assessments_-Priority-Recommendations-to-Guide-Effective-Development-and-Use.pdf). 
+* Article 19. (2019). [Governance with teeth: How human rights can strengthen FAT and ethics initiatives on artificial intelligence](https://www.article19.org/wp-content/uploads/2019/04/Governance-with-teeth_A19_April_2019.pdf).
 * Braun, J.-C., Constataras, E., Haung, H., Geiger, G., Mehrotra, D., Howden, D. (2023). [Suspicion Machines Methodology: A detailed explainer on what we did and how we did it](https://www.lighthousereports.com/suspicion-machines-methodology/). _LightHouse Reports_. 
 * Chowdhury, R., and Williams, J. (2021, July 30). [Introducing Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge). 
 * Eticas. (2022). [_The External Audit of the VioGén System_](https://eticasfoundation.org/wp-content/uploads/2022/03/ETICAS-FND-The-External-Audit-of-the-VioGen-System.pdf).
 * Eubanks, V. (2018). _Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor_. St Martin's Press.
-* Gender Shades. [_How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?_](http://gendershades.org/overview.html). 
+* Gender Shades. [_How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?_](http://gendershades.org/overview.html).
 * Metcalf, J., Moss, E., Watkins, E. A., Singh, R., Elish, M. C. (2021). [Algorithmic Impact Assessments and Accountability: The Co-construction of Impacts](https://dl.acm.org/doi/abs/10.1145/3442188.3445935). Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency.  
 
 
