@@ -64,6 +64,8 @@ syllabus.md
 * Metcalf, J., Moss, E., Watkins, E. A., Singh, R., Elish, M. C. (2021). [Algorithmic Impact Assessments and Accountability: The Co-construction of Impacts](https://dl.acm.org/doi/abs/10.1145/3442188.3445935). Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency.  
 
 
+## Session 4: Working with Different Actors (Affected Communities, Public Procurement)
+
 ### Policy instruments
 * ECNL's [Framework for Meaningful Engagement: Human Rights Impact Assessments of AI](https://ecnl.org/publications/framework-meaningful-engagement-human-rights-impact-assessments-ai)
 * UK’s [Guidelines for AI Procurement](https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement) (2021) 
