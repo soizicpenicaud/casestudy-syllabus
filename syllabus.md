@@ -26,7 +26,8 @@ syllabus.md
 * Stoyanovich, J. and Arif Khan, F. (2021). [All about that Bias](https://dataresponsibly.github.io/we-are-ai/comics/vol4_en.pdf). _We are AI Comics_, Vol 4.    
 
 ### Optional readings
-* Angwin, J., Larson, J., Mattu, S., Kirchner, L. (2016, 23 May). [Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). _ProPublica_. 
+* Angwin, J., Larson, J., Mattu, S., Kirchner, L. (2016, 23 May). [Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). _ProPublica_.
+* Balayn, A., Gürses, S. (2021). [Beyond Debiasing: Regulating AI and its inequalities](https://edri.org/wp-content/uploads/2021/09/EDRi_Beyond-Debiasing-Report_Online.pdf). _EDRi_.
 * Bennett, S. H. (2020, 20 August). [On A-Levels, Ofqual and Algorithms](https://www.sophieheloisebennett.com/posts/a-levels-2020/). _Sophie Bennett’s blog_. 
 * Narayan, A. (2018). [Tutorial: 21 Definitions of Fairness and their politics](https://www.youtube.com/watch?v=wqamrPkF5kk). Video from the 2018 conference on Fairness, Accountability and Transparency of Machine Learning. 
 * Ofqual. (2020, 15 April). [_Equality Impact Assessment_](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/879605/Equality_impact_assessment_literature_review_15_April_2020.pdf).
@@ -42,6 +43,7 @@ syllabus.md
 * Canada's [Algorithmic Impact Assessment](https://open.canada.ca/aia-eia-js/?lang=en) 
 * [Human Rights, Democracy, and the Rule of Law Assurance Framework for AI Systems: A proposal prepared for the Council of Europe's Ad hoc Committee on Artificial Intelligence](https://rm.coe.int/huderaf-coe-final-1-2752-6741-5300-v-1/1680a3f688)
 * The Netherlands’ Court of Audit report [_Understanding Algorithms_](https://english.rekenkamer.nl/publications/reports/2021/01/26/understanding-algorithms)
+* The Netherlands' [Fundamental Rights and Algorithms Impact Assessment (FRAIA)](https://www.government.nl/documents/reports/2021/07/31/impact-assessment-fundamental-rights-and-algorithms). 
 * Supreme Audit Institutions of Finland, Germany, the Netherlands, Norway and the UK, [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/) (2023)
 * New Zealand’s [Algorithmic Charter](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf) (for context, see [this presentation page](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/#algorithmCharter)) 
 * Mantelero, A., Esposito, M. S. ( July 2021). [An evidence-based methodology for human rights impact assessment (HRIA) in the development of AI data-intensive systems](https://www.sciencedirect.com/science/article/pii/S0267364921000340). Computer Law & Security Review.   
@@ -68,8 +70,9 @@ syllabus.md
 
 ### Policy instruments
 * ECNL's [Framework for Meaningful Engagement: Human Rights Impact Assessments of AI](https://ecnl.org/publications/framework-meaningful-engagement-human-rights-impact-assessments-ai)
+* [EU model contractual AI clauses to pilot in procurements of AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/eu-model-contractual-ai-clauses-pilot-procurements-ai).
 * UK’s [Guidelines for AI Procurement](https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement) (2021) 
-* Gilman, M. (2023). [Democratizing AI: Principles for Meaningful Public Participation](https://datasociety.net/wp-content/uploads/2023/09/DS_Democratizing-AI-Public-Participation-Brief_9.2023.pdf). Data & Society. 
+* Gilman, M. (2023). [Democratizing AI: Principles for Meaningful Public Participation](https://datasociety.net/wp-content/uploads/2023/09/DS_Democratizing-AI-Public-Participation-Brief_9.2023.pdf). Data & Society.
 
 ### Mandatory readings
 * Costanza-Chock, S. (2020). [Design Practices: “Nothing about Us without Us.”](https://design-justice.pubpub.org/pub/cfohnud7). In _Design Justice_ (1st ed.).   
@@ -77,7 +80,6 @@ syllabus.md
 * Elish, M. C. (2020, August 7). [Sepsis Watch in Practice: The labor of disruption and repair in healthcare](https://web.archive.org/web/20210316044439/https://points.datasociety.net/sepsis-watch-in-practice-5b06f88655fe?gi=9e0f4a4c87e9). _Data & Society: Points_. 
 * Robinson, D. G. (2022). "Chapter 2: Democracy on the Drawing Board". _Voices in the Code_. Russell Sage Foundation. 
 * Sloane, M., Moss, E., Awomolo, O., Forlano, L. (2020). [Participation is not a Design Fix for Machine Learning](https://arxiv.org/abs/2007.02423).
-
 
 ### Optional readings
 * Carollo, M., Tanen, B. (2023, 21 March). [How a Group of Health Executives Transformed the Liver Transplant System](https://themarkup.org/organ-failure/2023/03/21/how-a-group-of-health-executives-transformed-the-liver-transplant-system). The Markup. 
