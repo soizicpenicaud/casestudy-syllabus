@@ -3,7 +3,9 @@
 
 ## Responsible Use of Algorithms in the Public Sector: England's 2020 A-Level grading algorithm as a Case Study
 
-Course designed and taught by [Soizic Pénicaud](https://twitter.com/soizicpenicaud) at [Sciences Po Paris' Graduate School of Public Affairs](https://www.sciencespo.fr/public/en.html) in September-December 2022.
+### [The syllabus is currently obsolete. It will be updated by August 2024 for the academic year 2024-2025]
+
+Course designed and taught by [Soizic Pénicaud](https://twitter.com/soizicpenicaud) at [Sciences Po Paris' Graduate School of Public Affairs](https://www.sciencespo.fr/public/en.html) in September-December 2023.
 
 The content of this course and the case study are available under the Creative Commons Attribution-Non Commercial 4.0 International licence. 
 
