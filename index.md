@@ -33,7 +33,7 @@ studied to go deeper into specific aspects of designing and implementing algorit
 
 ## Case study (PDF)
 
-[Read the case study](/2022-casestudy-algo.pdf).
+[Read the case study](/ResponsibleAI_CaseStudy_2024.pdf).
 
 ## Syllabus
 
