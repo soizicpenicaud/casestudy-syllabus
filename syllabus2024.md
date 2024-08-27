@@ -13,7 +13,7 @@ syllabus.md
 ### Optional watch 
 * Benjamin, R. (2023). [Race to the future?](https://video.publicspaces.net/w/48f7ffdc-73c9-435f-9987-d7142bac3efc). Video. Opening keynote at the Public Spaces Conference in Amsterdam.
 
-## Session 2: Securing the tech - errors, choices, biases, (justice?)
+## Session 2: Avoiding tech pitfalls - errors, choices, biases, (justice?)
 
 ### Tools 
 * [Hugging Face's work on Model Cards](https://huggingface.co/blog/model-cards)
