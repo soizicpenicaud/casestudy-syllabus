@@ -30,7 +30,7 @@ syllabus.md
 * Angwin, J., Larson, J., Mattu, S., Kirchner, L. (2016, 23 May). [Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). _ProPublica_.
 * Balayn, A., Gürses, S. (2021). [Beyond Debiasing: Regulating AI and its inequalities](https://edri.org/wp-content/uploads/2021/09/EDRi_Beyond-Debiasing-Report_Online.pdf). _EDRi_.
 * Bennett, S. H. (2020, 20 August). [On A-Levels, Ofqual and Algorithms](https://www.sophieheloisebennett.com/posts/a-levels-2020/). _Sophie Bennett’s blog_. 
-* D'Ignazio, C. and Klein, L. (2020). [2. Collect, Analyze, Imagine, Teach](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4). In _Data Feminism_
+* D'Ignazio, C. and Klein, L. (2020). [2. Collect, Analyze, Imagine, Teach](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4). In _Data Feminism_. MIT Press. 
 * Narayan, A. (2018). [Tutorial: 21 Definitions of Fairness and their politics](https://www.youtube.com/watch?v=wqamrPkF5kk). Video from the 2018 conference on Fairness, Accountability and Transparency of Machine Learning. 
 * Ofqual. (2020, 15 April). [_Equality Impact Assessment_](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/879605/Equality_impact_assessment_literature_review_15_April_2020.pdf).
 * Selbst, A., boyd, d., Friedler, S., Venkatasubramanian, S., Vertesi, J. (2019). [Fairness and Abstraction in Sociotechnical Systems](https://dl.acm.org/doi/pdf/10.1145/3287560.3287598). Proceedings from the 2019 conference on Fairness, Accountability and Transparency of Machine Learning, Atlanta.  
@@ -46,15 +46,15 @@ On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accurac
 * Dutch Data Protection Authority - Department for the Coordination of Algorithmic Oversight (DCA). (2024). [_AI & Algorithmic Risks Report Netherlands_](https://www.autoriteitpersoonsgegevens.nl/uploads/2024-01/AI%20%26%20Algorithmic%20Risks%20Report%20Netherlands%20-%20winter%202023%202024.pdf) - for an example of how national authorities can practice "algorithmic oversight".
 * Eticas, BID. (2021). [Robot Laura Auditoría Algorítmica](https://publications.iadb.org/publications/spanish/viewer/Robot-laura-auditoria-algoritmica.pdf). Another applied example of an audit. 
 * Supreme Audit Institutions of Finland, Germany, the Netherlands, Norway and the UK, [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/) (2023) - for an example of how Courts of Audits can tackle the issue. 
-* US Department of State. (July 25, 2024).[_Risk Management Profile for Artificial Intelligence and Human Rights_](https://www.state.gov/risk-management-profile-for-ai-and-human-rights/) - with a focus on human rights.
+* US Department of State. (July 25, 2024). [_Risk Management Profile for Artificial Intelligence and Human Rights_](https://www.state.gov/risk-management-profile-for-ai-and-human-rights/) - with a focus on human rights.
 * New Zealand’s [Algorithmic Charter](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf) (for context, see [this presentation page](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/#algorithmCharter)). 
 * Mantelero, A., Esposito, M. S. ( July 2021). [An evidence-based methodology for human rights impact assessment (HRIA) in the development of AI data-intensive systems](https://www.sciencedirect.com/science/article/pii/S0267364921000340). Computer Law & Security Review.   
 
 ### Mandatory readings
-* Ada Lovelace Institute. (2020, 29 April). [_Examining the Black Box: Tools for assessing algorithmic systems_](https://www.adalovelaceinstitute.org/report/
-* Ada Lovelace Institute, AI Now Institute and Open Government Partnership. (2021). [_Executive Summary. Algorithmic Accountability for the Public Sector_.](https://www.opengovpartnership.org/wp-content/uploads/2021/08/executive-summary-algorithmic-accountability.pdf)  examining-the-black-box-tools-for-assessing-algorithmic-systems/).
+* Ada Lovelace Institute. (2020, 29 April). [_Examining the Black Box: Tools for assessing algorithmic systems_]([https://www.adalovelaceinstitute.org/report/](https://www.adalovelaceinstitute.org/report/examining-the-black-box-tools-for-assessing-algorithmic-systems/).
+* Ada Lovelace Institute, AI Now Institute and Open Government Partnership. (2021). [_Executive Summary. Algorithmic Accountability for the Public Sector_.](https://www.opengovpartnership.org/wp-content/uploads/2021/08/executive-summary-algorithmic-accountability.pdf).
 * Costanza-Chock, S., Raji, I. D., Buolamwini, J. (2022). [Who Audits the Auditors? Recommendations from a field scan of the algorithmic auditing ecosystem](https://dl.acm.org/doi/abs/10.1145/3531146.3533213). FAccT '22: Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency.
-* Groves, L., Metfcalf, J., Kennedy, A., Vecchione, B., Strait, A. [Auditing Work: Exploring the New York City algorithmic bias audit regime](https://arxiv.org/pdf/2402.08101). 
+* Groves, L., Metcalf, J., Kennedy, A., Vecchione, B., & Strait, A. (2024). [Auditing work: Exploring the New York City algorithmic bias audit regime](https://doi.org/10.1145/3630106.3658959). In *Proceedings of the Association for Computing Machinery*. Association for Computing Machinery. 
 * Constantaras, E., Geiger, G., Braun, J.-C., Mehortra, D., Aung, H. (2023, 6 March). [Inside the Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/). _Wired_.
 
 
@@ -77,12 +77,12 @@ Towards Critical Feminist Frameworks To Resist Oppressive A.I. Systems](https://
 
 ### Policy tools
 #### Registers
-* [AlgorithmTips.org](http://algorithmtips.org/about/) by the Computational Journalism Lab at Northwestern University (USA)
 * Amsterdam’s [register](https://algoritmeregister.amsterdam.nl/en/ai-register/)
 * Chile’s [register](https://www.algoritmospublicos.cl/)
 * France's [proposed framework for registers](https://guides.etalab.gouv.fr/algorithmes/inventaire/)
 * The UK's [Algorithmic Transparency Recording Standard Hub](https://www.gov.uk/government/collections/algorithmic-transparency-recording-standard-hub)
 * Joshi, D.'s [AI Observatory](https://ai-observatory.in/)
+* Public Law Project, [The Tracking Automated Government register](https://publiclawproject.org.uk/resources/the-tracking-automated-government-register/) (UK). 
 * The Netherland's [algorithm register](https://algoritmes.overheid.nl/nl/algoritme)
 
 #### Procurement
@@ -90,11 +90,10 @@ Towards Critical Feminist Frameworks To Resist Oppressive A.I. Systems](https://
 * [EU model contractual AI clauses to pilot in procurements of AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/eu-model-contractual-ai-clauses-pilot-procurements-ai).
 * UK’s [Guidelines for AI Procurement](https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement) (2021) 
 
-
 ### Mandatory readings
-* Ananny M, Crawford K. Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability. _New Media & Society_. 2018;20(3):973-989. doi:10.1177/146144481667664
+* Ananny M, Crawford K. [Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability](https://journals.sagepub.com/doi/10.1177/1461444816676645). _New Media & Society_. 2018;20(3):973-989.
 * Green, B., Kak, A. (2021, 15 June). [The False Comfort of Human Oversight as an Antidote to A.I. Harm](https://slate.com/technology/2021/06/human-oversight-artificial-intelligence-laws.html). _Slate_. 
-* Jansen, F., Cath, C. (2021). Just Do It: on the limits of governance through AI registers. In _AI Snake Oil, Pseudoscience and Hype, edited by Frederike Kaltheuner_. Meat Space Press. Online link: https://arxiv.org/abs/2109.02944 
+* Jansen, F., Cath, C. (2021). [Just Do It: on the limits of governance through AI registers](https://arxiv.org/abs/2109.02944). In _AI Snake Oil, Pseudoscience and Hype, edited by Frederike Kaltheuner_. Meat Space Press.  
 * Kolkman, D. (2020, 16 August). [F**ck the algorithm? What the world can learn from the UK A-level grading algorithm fiasco](https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/). LSE Impact Blog. 
 * Riley, S. (2024). [Overriding (in)justice: Pretrial risk assessment administration on the frontlines](https://doi.org/10.1145/3630106.3658920). In _Proceedings of the Association for Computing Machinery_. Association for Computing Machinery.
 
@@ -106,13 +105,9 @@ Towards Critical Feminist Frameworks To Resist Oppressive A.I. Systems](https://
 ## Session 5: Designing participatory algorithmic governance
 
 ### Practical Guidance & Frameworks
-* ECNL's [Framework for Meaningful Engagement: Human Rights Impact Assessments of AI](https://ecnl.org/publications/framework-meaningful-engagement-human-rights-impact-assessments-ai)
+* ECNL's [Framework for Meaningful Engagement: Human Rights Impact Assessments of AI](https://ecnl.org/publications/framework-meaningful-engagement-human-rights-impact-assessments-ai).
 * Data Justice Lab. (2021). [_Advancing civic participation in algorithmic decision-making: A guidebook for the public sector_](https://datajusticelab.org/wp-content/uploads/2021/06/PublicSectorToolkit_english.pdf).
 * Gilman, M. (2023). [Democratizing AI: Principles for Meaningful Public Participation](https://datasociety.net/wp-content/uploads/2023/09/DS_Democratizing-AI-Public-Participation-Brief_9.2023.pdf). Data & Society.
-
-### Examples of campaigns
-* Information about the EPIC's [complaint's to the FTC about "Fraud Detect"](https://statescoop.com/automated-public-benefit-fraud-detection-state-ftc-complaint/)
-* Surveillance Resistance Lab. [MyCity, INC. A Case Against "CompStat Urbanism"](https://surveillanceresistancelab.org/wp-content/uploads/MyCityINC_March2024.pdf). For an example of a campaign document
 
 ### Mandatory readings
 * Blair Attard-Frost's work on AI Countergovernance, either as [a written piece](https://www.midnightsunmag.ca/ai-countergovernance/) or as [a podcast](https://www.techpolicy.press/imagining-ai-countergovernance/).
@@ -129,21 +124,24 @@ Towards Critical Feminist Frameworks To Resist Oppressive A.I. Systems](https://
 * Singh, R. (2023, 18 August). [Can We Red Team Our Way to AI Accountability?](https://techpolicy.press/can-we-red-team-our-way-to-ai-accountability/). Tech Policy Press. 
 * Wylie, B. (2018, 13 August). [Searching for the Smart City's Democratic Future](https://www.cigionline.org/articles/searching-smart-citys-democratic-future/). Centre for International Governance Innovation.
 
+### Optional - Examples of campaigns
+* Information about the EPIC's [complaint's to the FTC about "Fraud Detect"](https://statescoop.com/automated-public-benefit-fraud-detection-state-ftc-complaint/)
+* Surveillance Resistance Lab. [MyCity, INC. A Case Against "CompStat Urbanism"](https://surveillanceresistancelab.org/wp-content/uploads/MyCityINC_March2024.pdf).
 
 ## Session 6 : Taking down a system and managing the aftermath - Conclusion
 
 ### Examples of campaigning & redress
 * Albarado, S. (2023, August 7). [Disabled Arkansans obtain settlement and program improvements in lawsuit against DHS officials](https://arktimes.com/arkansas-blog/2023/08/07/disabled-arkansans-obtain-settlement-and-program-improvements-in-lawsuit-against-dhs-officials). In _Arkansas Time_. 
 * Oosting, J. (2024, January 30). [Michiganders falsely accused of jobless fraud to share in €20M settlement](https://www.bridgemi.com/michigan-government/michiganders-falsely-accused-jobless-fraud-share-20m-settlement). In _Bridge Michigan_.
-* Vervloesem, K. (2020, 6 April). [How Dutch activists got an invasive fraud detection algorithm banned](https://algorithmwatch.org/en/syri-netherlands-algorithm/). AlgorithmWatch blog.  
+* Vervloesem, K. (2020, April 6). [How Dutch activists got an invasive fraud detection algorithm banned](https://algorithmwatch.org/en/syri-netherlands-algorithm/). AlgorithmWatch blog.  
 
 ### Mandatory readings
 * Ehsan, U., Singh, R., Metcalf, J., & Riedl, M. (2022). [The algorithmic imprint](https://doi.org/10.1145/3531146.3533186). In _Proceedings of the Association for Computing Machinery_. Association for Computing Machinery. 
 * Foxglove. (2020, 17 August). [We put a stop to the A Level grading algorithm!](https://www.foxglove.org.uk/2020/08/17/we-put-a-stop-to-the-a-level-grading-algorithm/). 
 * Leufer, D. (2020). [_Myth: AI has agency: headline rephraser tool_](https://www.aimyths.org/ai-has-agency#headline-rephraser). AI Myths. 
 * Ofqual. (2021). [_Decisions on how GCSE, AS and A- level grades will be determined in summer 2021_](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/965005/6747-1_decisions_-_GQ_consultation_on_awarding_grades_in_2021.pdf).
-* Poole, S. (2020, 3 September). [Steven Poole’s word of the day: 'Mutant algorithm': boring B-movie or another excuse from Boris Johnson?](https://www.theguardian.com/books/2020/sep/03/mutant-algorithm-boring-b-movie-or-another-excuse-from-boris-johnson). _The Guardian_.  
-* Redden, J. (2022, 21 September). [Government's use of automated decision-making systems reflects systemic issues of injustice and inequality](https://theconversation.com/governments-use-of-automated-decision-making-systems-reflects-systemic-issues-of-injustice-and-inequality-185953). _The Conversation_.
+* Poole, S. (2020, September 3). [Steven Poole’s word of the day: 'Mutant algorithm': boring B-movie or another excuse from Boris Johnson?](https://www.theguardian.com/books/2020/sep/03/mutant-algorithm-boring-b-movie-or-another-excuse-from-boris-johnson). _The Guardian_.  
+* Redden, J. (2022, September 21). [Government's use of automated decision-making systems reflects systemic issues of injustice and inequality](https://theconversation.com/governments-use-of-automated-decision-making-systems-reflects-systemic-issues-of-injustice-and-inequality-185953). _The Conversation_.
 
 ### Optional readings
 * Green, B. Z. (2019). [Chapter 2: The Livable City: The Limits and Dangers of New Technology](https://doi.org/10.7551/mitpress/11555.003.0004). In _The Smart Enough City: Putting Technology in Its Place to Reclaim Our Urban Future_. MIT Press. 
