@@ -1,7 +1,7 @@
 <meta property="og:image" content="imagepreview.png" />
 <meta property="twitter:image" content="imagepreview.png" />
 
-## Responsible Use of Algorithms in the Public Sector: Responsible Use of Decision-Making Algorithms in the Public Sector: a Case Study Approach
+## Responsible Use of Decision-Making Algorithms in the Public Sector: a Case Study Approach
 
 Course designed and taught by [Soizic Pénicaud](https://twitter.com/soizicpenicaud) at [Sciences Po Paris' Graduate School of Public Affairs](https://www.sciencespo.fr/public/en.html) in September-December 2021, 2022, 2023, 2024.
 
