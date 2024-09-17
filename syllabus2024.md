@@ -56,7 +56,6 @@ On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accurac
 * Costanza-Chock, S., Raji, I. D., Buolamwini, J. (2022). [Who Audits the Auditors? Recommendations from a field scan of the algorithmic auditing ecosystem](https://dl.acm.org/doi/abs/10.1145/3531146.3533213). FAccT '22: Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency.
 * Groves, L., Metcalf, J., Kennedy, A., Vecchione, B., & Strait, A. (2024). [Auditing work: Exploring the New York City algorithmic bias audit regime](https://doi.org/10.1145/3630106.3658959). In *Proceedings of the Association for Computing Machinery*. Association for Computing Machinery. 
 * Constantaras, E., Geiger, G., Braun, J.-C., Mehortra, D., Aung, H. (2023, 6 March). [Inside the Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/). _Wired_.
-* Tapasya, Sambhav., K., Joshi, D. (2024). (2024, January 24). ["How an algorithm denied food to thousands of poor in India’s Telangana"](https://www.aljazeera.com/economy/2024/1/24/how-an-algorithm-denied-food-to-thousands-of-poor-in-indias-telangana). _AlJazeera_. 
 
 
 ### Optional readings
@@ -64,7 +63,8 @@ On the Legitimacy of Decision-Making Algorithms that Optimize Predictive Accurac
 * Chowdhury, R., and Williams, J. (2021, July 30). [Introducing Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge). 
 * Eubanks, V. (2018). _Automating Inequality: How High-Tech Tools Profil, Police, and Punish the Poor_. St Martin's Press. 
 * Gender Shades. [_How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?_](http://gendershades.org/overview.html).
-* Marda, V., and Narayan, S. (2020). [Data in New Delhi’s Predictive Policing System](https://www.vidushimarda.com/storage/app/media/uploaded-files/fat2020-final586.pdf). Proceedings of the 2020 ACM Conference on Fairness, Accountability, and Transparency. 
+* Marda, V., and Narayan, S. (2020). [Data in New Delhi’s Predictive Policing System](https://www.vidushimarda.com/storage/app/media/uploaded-files/fat2020-final586.pdf). Proceedings of the 2020 ACM Conference on Fairness, Accountability, and Transparency.
+* Tapasya, Sambhav., K., Joshi, D. (2024). (2024, January 24). ["How an algorithm denied food to thousands of poor in India’s Telangana"](https://www.aljazeera.com/economy/2024/1/24/how-an-algorithm-denied-food-to-thousands-of-poor-in-indias-telangana). _AlJazeera_. 
 * Valdivia, A., Hyde-Vaamonde, C., García Marcos, J. (2024). [Judging the algorithm: Algorithmic accountability on the risk assessment tool for intimate partner violence in the Basque Country](https://link.springer.com/content/pdf/10.1007/s00146-024-02016-9.pdf). _AI & Society_.
 * Varon, J. and Peña, P. (2022). [Not My A.I.
 Towards Critical Feminist Frameworks To Resist Oppressive A.I. Systems](https://www.hks.harvard.edu/sites/default/files/2023-11/22_10JoanaVaron.pdf). Carr Center for Human Rights Policy, Harvard Kennedy School, Harvard University.
