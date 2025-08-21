@@ -120,6 +120,7 @@ Center for Resilience (CRCR).
 * [IEEE Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/). 
 
 **Redress**
+
 _There are few examples of good appeal and redress. This report by Doteveryone, although focused on online services, is a good source of inspiration, especially in its recommendations._
 * Massey, J., Pope, R. Kitcher, H., Miller, C. (2020). [Better Redress for the Digital Age](https://doteveryone.org.uk/wp-content/uploads/2020/05/Better-Redress-for-the-Digital-Age.pdf). _Doteveryone_.
 
@@ -145,6 +146,7 @@ _There are few examples of good appeal and redress. This report by Doteveryone, 
 **Literacy**
 * [AI and discrimination course in France](https://www.coe.int/fr/web/inclusion-and-antidiscrimination/ai-and-discrimination-course-in-france), by the Council of Europe and the French Equality Body (Défenseur des Droits).
 * [UNESCO's Global AI Training](https://www.unesco.org/en/articles/unescos-global-ai-training-empowers-civil-servants-31-countries-revolutionize-public-services).  
+
 **Frameworks**
 * ECNL's [Framework for Meaningful Engagement: Human Rights Impact Assessments of AI](https://ecnl.org/publications/framework-meaningful-engagement-human-rights-impact-assessments-ai).
 * [Connected by Data's Toolkit: Worker voice in public sector procurement of digital and AI systems in Wales](https://connectedbydata.org/assets/resources/Toolkit%20Procurement.pdf). - For an example of worker involvement. 
