@@ -3,7 +3,7 @@
 ## Session 1: What went wrong with this case? - Introduction
 
 ### Mandatory readings 
-* [The case study](/2022-casestudy-algo.pdf)
+* [The case study](/ResponsibleAI_CaseStudy_2024.pdf).
 * Green, B. Z. (2019). [Chapter 6: The Innovative City: The Relationship between Technical and Nontechnical Change in City Government](https://doi.org/10.7551/mitpress/11555.003.0008). In _The Smart Enough City: Putting Technology in Its Place to Reclaim Our Urban Future_. MIT Press. 
 * Hao, K. (2020). [The UK exam debacle reminds us that algorithms can’t fix broken systems](https://www.technologyreview.com/2020/08/20/1007502/uk-exam-algorithm-cant-fix-broken-system). _MIT Technology Review_. 
 * Toh, A. (2014). [The Algorithms Too Few People Are Talking About](https://www.hrw.org/news/2024/01/05/algorithms-too-few-people-are-talking-about). _Human Rights Watch_.
