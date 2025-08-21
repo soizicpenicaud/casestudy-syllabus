@@ -19,5 +19,5 @@ Students will pick from the following cases:
 * The Robodebt scandal (Australia) - start with [this article by The Guardian](https://www.theguardian.com/australia-news/2023/jul/07/six-things-to-watch-for-in-the-robodebt-royal-commission-report)
 
 ## Session 5: Facial recognition technologies in healthcare and education
-* Bernardo, Á., Álvarez del Vayo, M., Torrecillas, C., Maqueda, A., Laursen, L. (2025). [Mole or cancer? The algorithm that gets one in three melanomas wrong and erases patients with dark skin](https://civio.es/sanidad/2025/07/03/mole-or-cancer-the-algorithm-that-gets-one-in-three-melanomas-wrong-and-erases-patients-with-dark-skin/). _Civio_. 
+* A cancer-detection algorithm (Basque Country). Bernardo, Á., Álvarez del Vayo, M., Torrecillas, C., Maqueda, A., Laursen, L. (2025). [Mole or cancer? The algorithm that gets one in three melanomas wrong and erases patients with dark skin](https://civio.es/sanidad/2025/07/03/mole-or-cancer-the-algorithm-that-gets-one-in-three-melanomas-wrong-and-erases-patients-with-dark-skin/). _Civio_. 
 * Robin Pocornie's case against Proctorio (The Netherlands) - see the [Racism and Technology Center's dossier](https://racismandtechnology.center/theme/robins-case/) on the case. 
