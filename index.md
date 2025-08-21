@@ -3,7 +3,7 @@
 
 ## Responsible Use of Decision-Making Algorithms in the Public Sector: a Case Study Approach
 
-Course designed and taught by [Soizic Pénicaud](https://twitter.com/soizicpenicaud) at [Sciences Po Paris' Graduate School of Public Affairs](https://www.sciencespo.fr/public/en.html) in September-December 2021, 2022, 2023, 2024.
+Course designed and taught by [Soizic Pénicaud](https://twitter.com/soizicpenicaud) at [Sciences Po Paris' Graduate School of Public Affairs](https://www.sciencespo.fr/public/en.html) in the Fall semester of 2021 - 2025.
 
 The content of this course and the case study are available under the Creative Commons Attribution-Non Commercial 4.0 International licence. 
 
@@ -32,8 +32,12 @@ studied to go deeper into specific aspects of designing and implementing algorit
 
 ## Case study (PDF)
 
-[Read the case study](/ResponsibleAI_CaseStudy_2024.pdf).
+[Read the case study about the 2020 A-Level grade prediction algorithm](/ResponsibleAI_CaseStudy_2024.pdf).
 
 ## Syllabus
 
-For the detailed syllabus, see the [dedicated page](/syllabus2024.md). 
+For the detailed syllabus, see the [dedicated page](/syllabus2025.md). 
+
+## Case studies for presentations
+
+See [the case studies students will present on](/casestudies.md).
