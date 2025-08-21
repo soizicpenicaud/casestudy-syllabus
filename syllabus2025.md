@@ -66,18 +66,23 @@
 * Canada's [Algorithmic Impact Assessment](https://open.canada.ca/aia-eia-js/?lang=en). See for instance the impact assessment for the ["advanced analytics triage of overseas temporary resident visa applications"](https://open.canada.ca/data/en/dataset/6cba99b1-ea2c-4f8a-b954-3843ecd3a7f0).
 * New Zealand’s [Algorithmic Charter](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf) (for context, see [this presentation page](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/#algorithmCharter)).
 * Australia's [National Framework for the Assurance of Artificial Intelligence in Government](https://www.finance.gov.au/government/public-data/data-and-digital-ministers-meeting/national-framework-assurance-artificial-intelligence-government/implementing-australias-ai-ethics-principles-government). 
+
 **On environmental impacts** 
 * Sustainable AI Coalition (2025). [Standardization for AI Environmental Sustainability: Towards a coordinated global approach](https://www.sustainableaicoalition.org/wp-content/uploads/Standardization_AI_Sustainability.pdf). - For an example of (institutional) 
+
 **Examples of institutional audits**
 * Dutch Data Protection Authority - Department for the Coordination of Algorithmic Oversight (DCA). (2024). [_AI & Algorithmic Risks Report Netherlands_](https://www.autoriteitpersoonsgegevens.nl/uploads/2024-01/AI%20%26%20Algorithmic%20Risks%20Report%20Netherlands%20-%20winter%202023%202024.pdf) - for an example of how national authorities can practice "algorithmic oversight".
 * Supreme Audit Institutions of Finland, Germany, the Netherlands, Norway and the UK, [_Auditing machine learning algorithms: A white paper for public auditors_](https://www.auditingalgorithms.net/) (2023) - for an example of how Courts of Audits can tackle the issue. 
+
 **Examples of explainers/primers to familiarize public servants with issues and impacts**
 * Chen, B. (2025). [Policy Brief: Dispelling Myths of AI and Efficiency](https://datasociety.net/library/dispelling-myths-of-ai-and-efficiency/). _Data & Society_. - for an example of a policy brief, US-oriented. 
 * Dent, A. (2024). [Automating public services: a careful approach](https://static1.squarespace.com/static/5dc968e72502ee46b88c1a4a/t/679b992a3492ca75c33c3c79/1738250539317/Automating%2BPublic%2BServices%2BA%2Bcareful%2Bapproach%2BJuly%2B24.pdf). _Promising Trouble_. - for another example of a policy brief, UK-oriented. 
 coordination efforts around environmental impact assessments of AI. 
+
 **An example of impact assessment in context**
 * Ada Lovelace Institute. (2024). [Critical Analytics? Learning from the early adoption of data analytics for local authority service delivery](https://www.adalovelaceinstitute.org/wp-content/uploads/2024/10/Ada-Lovelace-Institute-Critical-analytics-July-2024.pdf). - For an example of second-party auditing in context.
-**In the law**  
+
+**An example in the law**  
 * Article 27 of the EU AI Act and CEDPO. (2025). [Fundamental Rights Impact Assessments: What are they? How do they work?](https://cedpo.eu/wp-content/uploads/CEDPO-micro-insight-paper-fundamental-rights-impact-assessments.pdf). _CEDPO AI and Data Working Group Micro-Insights Series_.  
 
 ## Session 4: Building Accountabiilty through "AI governance" (transparency, appeals, public procurement)
@@ -145,6 +150,7 @@ _There are few examples of good appeal and redress. This report by Doteveryone, 
 * [Connected by Data's Toolkit: Worker voice in public sector procurement of digital and AI systems in Wales](https://connectedbydata.org/assets/resources/Toolkit%20Procurement.pdf). - For an example of worker involvement. 
 * Data Justice Lab. (2021). [Advancing civic participation in algorithmic decision-making: A guidebook for the public sector](https://datajusticelab.org/wp-content/uploads/2021/06/PublicSectorToolkit_english.pdf).
 * Gilman, M. (2023). [Democratizing AI: Principles for Meaningful Public Participation](https://datasociety.net/wp-content/uploads/2023/09/DS_Democratizing-AI-Public-Participation-Brief_9.2023.pdf). _Data & Society_.
+
 **Concrete Examples**
 * [Connected by Data's People Panel on AI](https://connectedbydata.org/assets/projects/peoplespanel/2024%20-%20Peoples%20Panel%20on%20AI%20-%20Final%20Report%20%2810%20Pages%29.pdf). - For a concrete example of participatory general principles. 
 * [Long Beach's LB Co-Lab program](https://www.longbeach.gov/smartcity/pilot-programs/lb-co-lab/). - For a concrete example of permanent participation. 
@@ -168,11 +174,14 @@ _There are few examples of good appeal and redress. This report by Doteveryone, 
 ### Examples of resistance
 **France**
 * Amnesty International. (2024). [France: CNAF State Council Complaint](https://www.amnesty.org/fr/documents/eur21/8795/2024/en/). (and an article covering it in _Wired_: Meaker, M. (2024). [Algorithms Policed Welfare Systems for Years. Now They're Under Fire for Bias](https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/)).
+
 **The Netherlands**
 * Vervloesem, K. (2020, April 6). [How Dutch activists got an invasive fraud detection algorithm banned](https://algorithmwatch.org/en/syri-netherlands-algorithm/). _AlgorithmWatch_.
 * Adelmant, V., van Veen, C. (2022). [Hollow rights victories? Dutch struggles against digital injustice](https://www.openglobalrights.org/Dutch-struggles-against-injustice-digital-rights-netherlands/). _Open Global Rights_.  
+
 **The US**
 * The [Stop LAPD Spying Coalition](https://stoplapdspying.org/).
 * Surveillance Resistance Lab. [MyCity, INC. A Case Against "CompStat Urbanism"](https://surveillanceresistancelab.org/wp-content/uploads/MyCityINC_March2024.pdf).
+
 **The UK**
 * [Public Law Project's Tracking Automated Government register](https://publiclawproject.org.uk/resources/the-tracking-automated-government-register/). 
