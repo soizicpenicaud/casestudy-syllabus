@@ -28,7 +28,7 @@
 * Documentation on the A-Level algorithm: Ofqual (2020). [_Executive summary, Student-level equalities analyses for GCSE and A level, Summer 2020_](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/938869/6713_Student-level_equalities_analyses_for_GCSE_and_A_level.pdf). pp. 5-8; Ofqual. (2020, 15 April). [_Equality Impact Assessment_](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/879605/Equality_impact_assessment_literature_review_15_April_2020.pdf). 
 
 ### Policies, Tools, Standards, and Good Practices
-#### Concrete resources
+**Concrete resources**
 * The City of Amsterdam's [Fairness Handbook](https://amsterdamintelligence.com/resources/the-fairness-handbook), written for its public servants.  
 * The EU General-Purpose AI (GPAI) Code of Practice's [Model Documentation Form for general-purpose AI models](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai) (scroll down at the bottom of the page). 
 * The ["tool specification"](.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies#tool-specification-tier-2) section of the United Kingdom's Algorithmic Transparency Recording Standard. 
@@ -36,7 +36,7 @@
 * The European Data Protection Board's [_Checklist for AI Auditing_](https://www.edpb.europa.eu/system/files/2024-06/ai-auditing_checklist-for-ai-auditing-scores_edpb-spe-programme_en.pdf) (written by Dr. Gemma Galdon Clavell). 
 * Balayn, A., Gürses, S. (2021). [Beyond Debiasing: Regulating AI and its inequalities](https://edri.org/wp-content/uploads/2021/09/EDRi_Beyond-Debiasing-Report_Online.pdf). _EDRi_. 
 
-#### Standards and laws
+**Standards and Laws**
 * International standards: [IEEE Standard for Algorithmic Bias Considerations (7003-2024)](https://ieeexplore.ieee.org/document/10851955), [ISO/IEC TR 24027:2021 - Bias in AI systems and AI aided decision making](https://www.iso.org/standard/77607.html). - Note: you have to buy those, but this is so you have an idea of the current state of standards. 
 * NIST's [documentation on bias](https://www.nist.gov/artificial-intelligence/ai-research-identifying-managing-harmful-bias-ai).
 * [Article 10 of the EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689&qid=1724384177230). 
@@ -61,23 +61,23 @@
 * Varon, J. and Peña, P. (2022). [Not My A.I.: Towards Critical Feminist Frameworks To Resist Oppressive A.I. Systems](https://www.hks.harvard.edu/sites/default/files/2023-11/22_10JoanaVaron.pdf). Carr Center for Human Rights Policy, Harvard Kennedy School, Harvard University. - For a non-institutional vision of impacts. 
 
 ### Policies, Tools, Standards, and Good Practices
-#### Examples of impact assessments
+**Examples of impact assessments**
 * UNESCO's [Ethical Impact Assessment](https://www.unesco.org/ethics-ai/en/eia).
 * Canada's [Algorithmic Impact Assessment](https://open.canada.ca/aia-eia-js/?lang=en). See for instance the impact assessment for the ["advanced analytics triage of overseas temporary resident visa applications"](https://open.canada.ca/data/en/dataset/6cba99b1-ea2c-4f8a-b954-3843ecd3a7f0).
 * New Zealand’s [Algorithmic Charter](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf) (for context, see [this presentation page](https://data.govt.nz/toolkit/data-ethics/government-algorithm-transparency-and-accountability/#algorithmCharter)).
 * Australia's [National Framework for the Assurance of Artificial Intelligence in Government](https://www.finance.gov.au/government/public-data/data-and-digital-ministers-meeting/national-framework-assurance-artificial-intelligence-government/implementing-australias-ai-ethics-principles-government). 
-#### On environmental impacts: 
+**On environmental impacts** 
 * Sustainable AI Coalition (2025). [Standardization for AI Environmental Sustainability: Towards a coordinated global approach](https://www.sustainableaicoalition.org/wp-content/uploads/Standardization_AI_Sustainability.pdf). - For an example of (institutional) 
-#### Examples of institutional audits:
+**Examples of institutional audits**
 * Dutch Data Protection Authority - Department for the Coordination of Algorithmic Oversight (DCA). (2024). [_AI & Algorithmic Risks Report Netherlands_](https://www.autoriteitpersoonsgegevens.nl/uploads/2024-01/AI%20%26%20Algorithmic%20Risks%20Report%20Netherlands%20-%20winter%202023%202024.pdf) - for an example of how national authorities can practice "algorithmic oversight".
 * Supreme Audit Institutions of Finland, Germany, the Netherlands, Norway and the UK, [_Auditing machine learning algorithms: A white paper for public auditors_](https://www.auditingalgorithms.net/) (2023) - for an example of how Courts of Audits can tackle the issue. 
-#### Examples of explainers/primers to familiarize public servants with issues and impacts: 
+**Examples of explainers/primers to familiarize public servants with issues and impacts**
 * Chen, B. (2025). [Policy Brief: Dispelling Myths of AI and Efficiency](https://datasociety.net/library/dispelling-myths-of-ai-and-efficiency/). _Data & Society_. - for an example of a policy brief, US-oriented. 
 * Dent, A. (2024). [Automating public services: a careful approach](https://static1.squarespace.com/static/5dc968e72502ee46b88c1a4a/t/679b992a3492ca75c33c3c79/1738250539317/Automating%2BPublic%2BServices%2BA%2Bcareful%2Bapproach%2BJuly%2B24.pdf). _Promising Trouble_. - for another example of a policy brief, UK-oriented. 
 coordination efforts around environmental impact assessments of AI. 
-#### An example of impact assessment in context:
+**An example of impact assessment in context**
 * Ada Lovelace Institute. (2024). [Critical Analytics? Learning from the early adoption of data analytics for local authority service delivery](https://www.adalovelaceinstitute.org/wp-content/uploads/2024/10/Ada-Lovelace-Institute-Critical-analytics-July-2024.pdf). - For an example of second-party auditing in context.
-#### In the law:  
+**In the law**  
 * Article 27 of the EU AI Act and CEDPO. (2025). [Fundamental Rights Impact Assessments: What are they? How do they work?](https://cedpo.eu/wp-content/uploads/CEDPO-micro-insight-paper-fundamental-rights-impact-assessments.pdf). _CEDPO AI and Data Working Group Micro-Insights Series_.  
 
 ## Session 4: Building Accountabiilty through "AI governance" (transparency, appeals, public procurement)
@@ -99,13 +99,13 @@ coordination efforts around environmental impact assessments of AI.
 * Yew, R., Marino, B., Venkatasubramanian, S. (2025). [Red Teaming AI Policy: A Taxonomy of Avoision and the EU AI Act](https://arxiv.org/abs/2506.01931).  _FAccT '25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency_. 
 
 ### Policies, Tools, Standards, and Good Practices
-#### Registers
+**Registers**
 * [The Algorithm Register of the Dutch government](https://algoritmes.overheid.nl/en). 
 * Chile’s [register](https://www.algoritmospublicos.cl/).
 * The UK's [Algorithmic Transparency Recording Standard Hub](https://www.gov.uk/government/collections/algorithmic-transparency-recording-standard-hub).
 * You can also look through the [government AI registers listed in the Civic Tech Field Guide](https://directory.civictech.guide/listing-category/registers-of-government-ai). 
 
-#### Procurement practices
+**Procurement practices**
 * ChileCompra's [Standard Bidding Terms for algorithms and artificial intelligence with ethical requirements](https://goblab.uai.cl/en/chilecompra-presents-unprecedented-standard-bidding-terms-for-algorithms-and-artificial-intelligence-with-ethical-requirements/).
 * [EU model contractual AI clauses to pilot in procurements of AI](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/eu-model-contractual-ai-clauses-pilot-procurements-ai).
 * Pakzad, R., and Conti-Cook, C. (2025). [Key Considerations When Procuring AI in the Public Sector](https://static1.squarespace.com/static/5d159d288addab0001036c45/t/6890f9066bf93951bedd9485/1754331401682/AI_Procurement_Taraaz_CRCR_2025.pdf). Taraaz & The Collaborative Research
@@ -114,7 +114,7 @@ Center for Resilience (CRCR).
 * UK’s [Guidelines for AI Procurement](https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement). (2021) 
 * [IEEE Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/). 
 
-#### Redress
+**Redress**
 _There are few examples of good appeal and redress. This report by Doteveryone, although focused on online services, is a good source of inspiration, especially in its recommendations._
 * Massey, J., Pope, R. Kitcher, H., Miller, C. (2020). [Better Redress for the Digital Age](https://doteveryone.org.uk/wp-content/uploads/2020/05/Better-Redress-for-the-Digital-Age.pdf). _Doteveryone_.
 
@@ -137,15 +137,15 @@ _There are few examples of good appeal and redress. This report by Doteveryone, 
 * Wylie, B. (2018, 13 August). [Searching for the Smart City's Democratic Future](https://www.cigionline.org/articles/searching-smart-citys-democratic-future/). Centre for International Governance Innovation.
 
 ### Policies, Tools, Standards, & Good Practices
-#### Literacy:
+**Literacy**
 * [AI and discrimination course in France](https://www.coe.int/fr/web/inclusion-and-antidiscrimination/ai-and-discrimination-course-in-france), by the Council of Europe and the French Equality Body (Défenseur des Droits).
 * [UNESCO's Global AI Training](https://www.unesco.org/en/articles/unescos-global-ai-training-empowers-civil-servants-31-countries-revolutionize-public-services).  
-#### Frameworks
+**Frameworks**
 * ECNL's [Framework for Meaningful Engagement: Human Rights Impact Assessments of AI](https://ecnl.org/publications/framework-meaningful-engagement-human-rights-impact-assessments-ai).
 * [Connected by Data's Toolkit: Worker voice in public sector procurement of digital and AI systems in Wales](https://connectedbydata.org/assets/resources/Toolkit%20Procurement.pdf). - For an example of worker involvement. 
 * Data Justice Lab. (2021). [Advancing civic participation in algorithmic decision-making: A guidebook for the public sector](https://datajusticelab.org/wp-content/uploads/2021/06/PublicSectorToolkit_english.pdf).
 * Gilman, M. (2023). [Democratizing AI: Principles for Meaningful Public Participation](https://datasociety.net/wp-content/uploads/2023/09/DS_Democratizing-AI-Public-Participation-Brief_9.2023.pdf). _Data & Society_.
-#### Concrete Examples
+**Concrete Examples**
 * [Connected by Data's People Panel on AI](https://connectedbydata.org/assets/projects/peoplespanel/2024%20-%20Peoples%20Panel%20on%20AI%20-%20Final%20Report%20%2810%20Pages%29.pdf). - For a concrete example of participatory general principles. 
 * [Long Beach's LB Co-Lab program](https://www.longbeach.gov/smartcity/pilot-programs/lb-co-lab/). - For a concrete example of permanent participation. 
 * Ofqual. (2020). [Analysis of Consultation Responses: Exceptional arrangements for exam grading and assessment in 2020](https://assets.publishing.service.gov.uk/media/5ec650d486650c76b02b2cca/Analysis_of_consultation_responses_21MAY2020.pdf). - As a potential counterexample. 
@@ -166,13 +166,13 @@ _There are few examples of good appeal and redress. This report by Doteveryone, 
 * Lulamae, J. (2022). [People are still angry about the UK's 2020 grading algorithm experiment](https://r.algorithmwatch.org/nl3/tnK3o1XF0cFyaf9fHVWtaw?m=AMwAAMY7ZvEAAAAQMhgAAAH66EEAAAAA6uQAAB1gABB0KQBidKt2FY6ovuDyRQ-nbOhWeD8HOwAQJ0I&b=822367f1&e=0b4020f4&x=aALhDVlisnKGlGVxFivX-bk11o6AtUEu-8wM5knkcSk). _AlgorithmWatch's Automated Society_.
 
 ### Examples of resistance
-#### France
+**France**
 * Amnesty International. (2024). [France: CNAF State Council Complaint](https://www.amnesty.org/fr/documents/eur21/8795/2024/en/). (and an article covering it in _Wired_: Meaker, M. (2024). [Algorithms Policed Welfare Systems for Years. Now They're Under Fire for Bias](https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/)).
-#### The Netherlands 
+**The Netherlands**
 * Vervloesem, K. (2020, April 6). [How Dutch activists got an invasive fraud detection algorithm banned](https://algorithmwatch.org/en/syri-netherlands-algorithm/). _AlgorithmWatch_.
 * Adelmant, V., van Veen, C. (2022). [Hollow rights victories? Dutch struggles against digital injustice](https://www.openglobalrights.org/Dutch-struggles-against-injustice-digital-rights-netherlands/). _Open Global Rights_.  
-#### The US
+**The US**
 * The [Stop LAPD Spying Coalition](https://stoplapdspying.org/).
 * Surveillance Resistance Lab. [MyCity, INC. A Case Against "CompStat Urbanism"](https://surveillanceresistancelab.org/wp-content/uploads/MyCityINC_March2024.pdf).
-#### The UK
+**The UK**
 * [Public Law Project's Tracking Automated Government register](https://publiclawproject.org.uk/resources/the-tracking-automated-government-register/). 
