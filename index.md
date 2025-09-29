@@ -5,7 +5,7 @@
 
 Course designed and taught by [Soizic Pénicaud](https://twitter.com/soizicpenicaud) at [Sciences Po Paris' Graduate School of Public Affairs](https://www.sciencespo.fr/public/en.html) in the Fall semester of 2021 - 2025.
 
-The content of this course and the case study are available under the Creative Commons Attribution-Non Commercial 4.0 International licence. 
+The content of this course and the case study are available under the Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International licence. 
 
 ## Course description
 
