@@ -164,7 +164,6 @@ _There are few examples of good appeal and redress. This report by Doteveryone, 
 * Ehsan, U., Singh, R., Metcalf, J., & Riedl, M. (2022). [The algorithmic imprint](https://doi.org/10.1145/3531146.3533186).  _FAccT '22: Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency_.  
 * Foxglove. (2020, 17 August). [We put a stop to the A Level grading algorithm!](https://www.foxglove.org.uk/2020/08/17/we-put-a-stop-to-the-a-level-grading-algorithm/). 
 * Leufer, D. (2020). [Myth: AI has agency: headline rephraser tool](https://www.aimyths.org/ai-has-agency#headline-rephraser). AI Myths. 
-* Ofqual. (2021). [_Decisions on how GCSE, AS and A- level grades will be determined in summer 2021_](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/965005/6747-1_decisions_-_GQ_consultation_on_awarding_grades_in_2021.pdf).
 * Poole, S. (2020, September 3). [Steven Poole’s word of the day: 'Mutant algorithm': boring B-movie or another excuse from Boris Johnson?](https://www.theguardian.com/books/2020/sep/03/mutant-algorithm-boring-b-movie-or-another-excuse-from-boris-johnson). _The Guardian_.  
 * Redden, J. (2022). [Government's use of automated decision-making systems reflects systemic issues of injustice and inequality](https://theconversation.com/governments-use-of-automated-decision-making-systems-reflects-systemic-issues-of-injustice-and-inequality-185953). _The Conversation_.
 
@@ -172,6 +171,7 @@ _There are few examples of good appeal and redress. This report by Doteveryone, 
 * Green, B. Z. (2019). [Chapter 2: The Livable City: The Limits and Dangers of New Technology](https://doi.org/10.7551/mitpress/11555.003.0004). In _The Smart Enough City: Putting Technology in Its Place to Reclaim Our Urban Future_. MIT Press. 
 * Johnson, N., Moharana, S., Harrington, C., Andalibi, N., Heidari, H., Eslami, M. (2025). [The Fall of an Algorithm: Characterizing the Dynamics Toward Abandonment](https://arxiv.org/pdf/2404.13802). _FAccT '25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency_. 
 * Lulamae, J. (2022). [People are still angry about the UK's 2020 grading algorithm experiment](https://r.algorithmwatch.org/nl3/tnK3o1XF0cFyaf9fHVWtaw?m=AMwAAMY7ZvEAAAAQMhgAAAH66EEAAAAA6uQAAB1gABB0KQBidKt2FY6ovuDyRQ-nbOhWeD8HOwAQJ0I&b=822367f1&e=0b4020f4&x=aALhDVlisnKGlGVxFivX-bk11o6AtUEu-8wM5knkcSk). _AlgorithmWatch's Automated Society_.
+* Ofqual. (2021). [_Decisions on how GCSE, AS and A- level grades will be determined in summer 2021_](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/965005/6747-1_decisions_-_GQ_consultation_on_awarding_grades_in_2021.pdf).
 
 ### Examples of resistance
 **France**
