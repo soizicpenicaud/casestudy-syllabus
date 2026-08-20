@@ -3,14 +3,14 @@
 
 ## Responsible Use of Decision-Making Algorithms in the Public Sector: a Case Study Approach
 
-Course designed and taught by [Soizic Pénicaud](https://twitter.com/soizicpenicaud) at [Sciences Po Paris' Graduate School of Public Affairs](https://www.sciencespo.fr/public/en.html) in the Fall semester of 2021 - 2025.
+Course designed and taught by [Soizic Pénicaud](https://twitter.com/soizicpenicaud) at [Sciences Po Paris' Graduate School of Public Affairs](https://www.sciencespo.fr/public/en.html) in the Fall semester of 2021 - 2026.
 
 The content of this course and the case study are available under the Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International licence. 
 
 ## Course description
 
 “Artificial intelligence” is a buzzword in the public sector, and agencies increasingly use algorithms and data-driven systems to aid or make decisions. This course is suited for students who want to understand the issue and apply their takeaways to policy, advocacy, research or product management work.
-The course’s starting point is an algorithm developed by the English government in 2020 to predict A-Level grades, and the backlash that ensued. Other cases are discussed to go deeper into specific aspects of designing and implementing algorithms.
+The course is designed around "post-mortem" discussions of case studies spanning various public policies (social security, healthcare, education, law enforcement). Its starting point is an algorithm developed by the English government in 2020 to predict A-Level grades, and the backlash that ensued. 
 
 The main questions addressed are: when (not) to build algorithms? For and with whom? How to
 ensure their efficacy and monitor their actual impact, especially with regards to inequalities? How to ensure government remains accountable? What role does civil society play, and how can it push back against abuses? 
@@ -28,7 +28,7 @@ studied to go deeper into specific aspects of designing and implementing algorit
 |**Assessing the impacts of an algorithmic system**|Learn about and critique existing policy instruments and tools to assess the impacts of algorithmic systems <br> Learn about different methods to investigate and audit algorithmic systems <br> Reflect on how these concepts apply to the A-Levels case <br>|
 |**Building accountability: transparency, appeals, public procurement**|Understand what accountability means and how it compares to transparency, fairness or explainability <br> Explore different ways to ensure government remains accountable, and understand their limitations and ambiguities <br>|
 |**Leveraging participation and procurement**|Understand the breadth and types of actors involved in designing, building and using algorithmic systems <br>Explore citizen participation in the context of data-driven systems and be aware of the pitfalls of "participation washing" <br> Learn how procurement can be used to foster AI accountability, and its limitations <br>|
-|**Taking down a problematic algorithmic system and managing the aftermath**|Understand the longer-lasting consequences of algorithmic systems, even when cancelled <br>Reflect on Boris Johnson's communication around the A-Level scandal <br> Hear from guest speakers about their experience researching, litigating and fighting back against algorithmic systems <br>|
+|**Taking down a problematic algorithmic system and managing the aftermath**|Understand the longer-lasting consequences of algorithmic systems, even when cancelled <br>Reflect on Boris Johnson's communication around the A-Level scandal <br> |
 
 ## Case study (PDF)
 
@@ -40,4 +40,4 @@ For the detailed syllabus, see the [dedicated page](/syllabus2026.md).
 
 ## Case studies for presentations
 
-See [the case studies students will present on](/casestudies.md).
+See [the case studies students will present on](/casestudies2026.md).
