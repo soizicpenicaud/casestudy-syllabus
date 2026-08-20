@@ -20,7 +20,7 @@ Three case studies on fraud detection in social services:
 * The Robodebt scandal (Australia): Karp, P. and Henrique-Gomes, L. (2023). [Explainer: What is robodebt? Six things to watch for in the royal commission’s final report today](https://www.theguardian.com/australia-news/2023/jul/07/six-things-to-watch-for-in-the-robodebt-royal-commission-report). _The Guardian_. 
 * Amsterdam's "fair risk score" expriment: Guo, E., Geiger, G., Braun, J.-C. (2025). [Inside Amsterdam’s high-stakes experiment to create fair welfare AI](https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/). _MIT Technology Review_. 
 
-
+Readings: 
 * Leufer, D. (2020). [Myth: AI can be objective or unbiased](https://www.aimyths.org/ai-can-be-objective-or-unbiased#bias-in-machine-learning). _AI Myths_.
 * O’Neil, C. (2016). Introduction and Chapter 1: “Bomb parts: What is a model?”. In _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_. Crown Publishing Group. 
 * Yong, E. (2018). [A Popular Algorithm Is No Better at Predicting Crimes Than Random People](https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/). _The Atlantic_.
@@ -64,6 +64,7 @@ Three case studies on access to social benefits:
 * Nutrition welfare programs (India) - see Rizwan, H. [India’s Facial Recognition Drive On Hungry Children Is Erasing Them](https://www.decodeinternet.in/decode/indias-facial-recognition-drive-on-hungry-children-is-erasing-them-30906) and Tapasya, Sambhav, K., Joshi, D. (2024). [How an algorithm denied food to thousands of poor in India’s Telangana](https://www.aljazeera.com/economy/2024/1/24/how-an-algorithm-denied-food-to-thousands-of-poor-in-indias-telangana). _Al Jazeera_.
 * SHA's means testing tool (Kenya) - see Mukami, P., Kirigia, J., Geiger, G., Statius, T., Lepapa, N. (2026). [Hiding Behind AI: How SHA Was Used to Load Health System Costs Onto Poorest](https://sha.africauncensored.online/). _Africa Uncensored_. 
 
+Readings:
 * Ada Lovelace Institute. (2020). [Examining the Black Box: Tools for assessing algorithmic systems](https://www.adalovelaceinstitute.org/report/examining-the-black-box-tools-for-assessing-algorithmic-systems/). 
 * Costanza-Chock, S., Raji, I. D., Buolamwini, J. (2022). [Who Audits the Auditors? Recommendations from a field scan of the algorithmic auditing ecosystem](https://dl.acm.org/doi/abs/10.1145/3531146.3533213). _FAccT '22: Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency_.
 * Groves, L., Metcalf, J., Kennedy, A., Vecchione, B., Strait, A. (2024). [Auditing work: Exploring the New York City algorithmic bias audit regime](https://doi.org/10.1145/3630106.3658959). In *Proceedings of the Association for Computing Machinery*. Association for Computing Machinery. 
@@ -114,6 +115,7 @@ Case studies on law enforcement and fight against domestic violence:
 * Riscanvi (Catalonia) - see See Arandia, P., Ley, M., Sisqués, S., Martín., Ortega, M., Mateo, M., Luengo, J. (2024). [Riscanvi: Un algoritmo define el futuro de los presos en Cataluña: ahora sabemo cómo funciona](https://www.elconfidencial.com/tecnologia/2024-04-24/riscanvi-algoritmo-cataluna-prisiones-presos-inteligencia-artificial_3871170/). 
 * Alerta Niñez (Chile) - see [Risk Scoring Children in Chile](https://chrgj.org/2022-04-20-risk-scoring-children-in-chile/), a recap by Paz Peña for the Center for Human Rights and Global Justice (NYU Law). 
 
+Readings:
 * Ananny M, Crawford K. [Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability](https://journals.sagepub.com/doi/10.1177/1461444816676645). _New Media & Society_. 
 * Green, B., Kak, A. (2021). [The False Comfort of Human Oversight as an Antidote to A.I. Harm](https://slate.com/technology/2021/06/human-oversight-artificial-intelligence-laws.html). _Slate_. 
 * Jansen, F., Cath, C. (2021). [Just Do It: on the limits of governance through AI registers](https://arxiv.org/abs/2109.02944). In _AI Snake Oil, Pseudoscience and Hype, edited by Frederike Kaltheuner_. Meat Space Press.  
@@ -151,6 +153,7 @@ Case studies on AI and algorithms in healthcare:
 * Robinson, D. G. (2022). [The Kidney Transplant Algorithm's Surprising Lessons for Ethical AI](https://slate.com/technology/2022/08/kidney-allocation-algorithm-ai-ethics.html). _Slate_.
 * Bernardo, Á., Álvarez del Vayo, M., Torrecillas, C., Maqueda, A., Laursen, L. (2025). [Mole or cancer? The algorithm that gets one in three melanomas wrong and erases patients with dark skin](https://civio.es/sanidad/2025/07/03/mole-or-cancer-the-algorithm-that-gets-one-in-three-melanomas-wrong-and-erases-patients-with-dark-skin/). _Civio_. 
 
+Readings:
 * Attard-Frost, B. (2023). [AI Countergovernance](https://www.midnightsunmag.ca/ai-countergovernance/). _Midnight Sun_. 
 * Costanza-Chock, S. (2020). [Design Practices: “Nothing about Us without Us.”](https://design-justice.pubpub.org/pub/cfohnud7). In _Design Justice_.
 * Hu, W. and Singh, R. (2024). [Enrolling Citizens: A Primer on Archetypes of Democratic Engagement with AI](https://datasociety.net/wp-content/uploads/2024/06/DS_Enrolling-Citizens-Primer_FINAL.pdf). _Data & Society_.  
@@ -205,6 +208,7 @@ Case studies about generative AI in the public sector:
 * Reporting by The Guardian on [the UK Home Office using generative AI to wrongly reject an asylum's claim](https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests.)
 * Bruff, O. and Groves, L. (2026). [Scribe and Prejudice? Exploring the use of AI transcription tools in social care](https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests). _Ada Lovelace Institute_.
 
+Readings: 
 * Ehsan, U., Singh, R., Metcalf, J., & Riedl, M. (2022). [The algorithmic imprint](https://doi.org/10.1145/3531146.3533186).  _FAccT '22: Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency_.  
 * Foxglove. (2020, 17 August). [We put a stop to the A Level grading algorithm!](https://www.foxglove.org.uk/2020/08/17/we-put-a-stop-to-the-a-level-grading-algorithm/). 
 * Leufer, D. (2020). [Myth: AI has agency: headline rephraser tool](https://www.aimyths.org/ai-has-agency#headline-rephraser). AI Myths. 
