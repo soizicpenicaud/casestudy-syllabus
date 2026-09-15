@@ -106,7 +106,7 @@ coordination efforts around environmental impact assessments of AI.
 **An example in the law**  
 * Article 27 of the EU AI Act and CEDPO. (2025). [Fundamental Rights Impact Assessments: What are they? How do they work?](https://cedpo.eu/wp-content/uploads/CEDPO-micro-insight-paper-fundamental-rights-impact-assessments.pdf). _CEDPO AI and Data Working Group Micro-Insights Series_.  
 
-## Session 4: Building Accountabiilty through "AI governance" (transparency, appeals, oversight)
+## Session 4: Building Accountability through "AI governance" (transparency, appeals, oversight)
 
 ### Mandatory readings
 
